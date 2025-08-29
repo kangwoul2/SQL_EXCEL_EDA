@@ -231,7 +231,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
     
     구성 비율이 가장 큰 연령대를 핵심 소비층으로 삼아 주요 타겟 마케팅 대상으로 활용 가능하다. 10대 인원이 상대적으로 적기 때문에 잠재 고객 확보를 위한 별도의 전략 수립하고, 이를  바탕으로 맞춤형 구매 선호도 파악하여 연령대별 프로모션을 추진 할 수 있다.
     
-    ![image.png](attachment:57270d30-a1cf-4cb9-ab85-3762a2d51a49:image.png)
+  <img width="419" height="188" alt="image" src="https://github.com/user-attachments/assets/a7937935-c630-490d-b59b-7c83ae28b498" />
+
     
 
 ### 2.1.2. 성비 분포
@@ -244,7 +245,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
     
     성별에 따라 다른 마케팅 전략 수립할 수 있다.
     
-    ![image.png](attachment:c4722ff2-8d78-4871-9238-b8acacc5d84e:image.png)
+    <img width="417" height="193" alt="image" src="https://github.com/user-attachments/assets/d7ccc7b7-bffb-426b-9ab0-42e5be639e19" />
+
     
 
 ### 2.1.3. 온라인/오프라인 구매 비율 분포
@@ -255,7 +257,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 활용 방안으로는 온라인 채널 중심의의 마케팅 확대 (간편결제, 모바일 앱 프로모션)와 함께 구매 채널별  맞춤형 프로모션 설계할 수 있다. 예를 들어 온라인은 전용쿠폰, 오프라인은 매장적립혜택을 제공하는 방식이 효과적이다.
 
-![chart (5).png](attachment:34a38491-1b2f-4e37-9b8b-62311256ee69:chart_(5).png)
+<img width="384" height="236" alt="image" src="https://github.com/user-attachments/assets/1d3f076e-d60c-45b4-9fa0-b215f27d40b4" />
+
 
 ## 2.2.기업 데이터
 
@@ -271,7 +274,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 활용방안으로는 매출 상위/고객군 중심의 마케팅 전략을 수립하고, 매출 저조 지역에서는  프로모션 광고를 강화하는 방식이 효과적이다.
 
-![chart (2).png](attachment:d6adccd3-351f-4d2b-b6c8-cceec07888ac:chart_(2).png)
+<img width="432" height="263" alt="image" src="https://github.com/user-attachments/assets/5d823d64-8f4a-4bcf-b11c-19fcc1b91707" />
+
 
  
 
@@ -287,7 +291,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 이를 통해 구독 서비스 확대를 통한 충성 고객층 확보하며, 구독 유지 고객 대상 차별화된 혜택 제공을 통한 장기적 충성도를 강화시킬 수 있다.
 
-![chart (3).png](attachment:d986994b-8b79-4b03-93d4-5ead80b681e7:chart_(3).png)
+<img width="396" height="244" alt="image" src="https://github.com/user-attachments/assets/16731a5b-2737-4d9b-988f-b2ea67de84ea" />
+
 
 ### 2.2.3. 프로모션 진행 분포
 
@@ -301,7 +306,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 활용 방안으로는, 지역, 고객 세그먼트별 맞춤형 프로모션 설계하는 전략이 유효하다.
 
-![chart (4).png](attachment:9df75c47-59af-49d5-bffb-94f28456312b:chart_(4).png)
+<img width="431" height="271" alt="image" src="https://github.com/user-attachments/assets/56630063-25b9-4af2-90e4-8be6e7e5a463" />
+
 
 ## **3. 개별 분석 주제**
 
@@ -354,7 +360,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 아우터 아이템 분석
     
-    ![image.png](attachment:bcef3948-25e5-4185-90d0-a2bbc9460126:image.png)
+    <img width="678" height="410" alt="image" src="https://github.com/user-attachments/assets/bb112e4e-f2ff-47a0-9b0c-55021452d0fc" />
+
     
 
 <aside>
@@ -369,9 +376,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 지역별 아우터 매출 상위 10개 기업의 기온 특성 분석
 
-![image.png](attachment:39bb33b9-191d-4579-80a0-cc6b3a8bfa77:image.png)
+<img width="713" height="204" alt="image" src="https://github.com/user-attachments/assets/557ad6bc-8318-4d89-a568-0550833b8707" />
 
-![image.png](attachment:9281e31b-9d15-4dc0-8d3b-cc3249b078c3:image.png)
 
 <aside>
 
@@ -384,7 +390,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 상위 24개의 매출과 기온 특성간의 상관관계
 
-![image.png](attachment:f18aee54-c81b-4e4b-abc3-d550c129478e:image.png)
+<img width="289" height="425" alt="image" src="https://github.com/user-attachments/assets/2c0d9fde-008c-4301-85fe-ce73a86ce04e" />
+
 
 <aside>
 
@@ -417,11 +424,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 지역별 제품 판매액과 평균 구매 가격 사이의 관계
 
-![image.png](attachment:9fec8d54-7d54-43aa-91b0-a678a322c95c:image.png)
+<img width="780" height="320" alt="image" src="https://github.com/user-attachments/assets/c47b9e06-b5c7-4e92-9479-9f42f5ab8620" />
 
-![image.png](attachment:71d11e09-d93a-4907-850c-b64ff8c3c355:image.png)
-
-![image.png](attachment:fceab436-e9a3-4b71-920d-1aeba43b68dd:image.png)
 
 <aside>
 
@@ -438,9 +442,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 연령별 아우터 소비 패턴
 
-![image.png](attachment:ddfa82e4-b481-49f0-ba08-ae229d174fef:image.png)
+<img width="716" height="658" alt="image" src="https://github.com/user-attachments/assets/2acf8bfb-08f3-4e19-ae86-97ce7ea7d316" />
 
-![image.png](attachment:e4c999ec-369b-48d6-910b-f0148451a090:image.png)
 
 <aside>
 
@@ -503,7 +506,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 연령대별 구매 의류 색상
 
-![image.png](attachment:e8d3d10d-4644-4f3a-85b1-7f9d51eaec6e:image.png)
+<img width="649" height="408" alt="image" src="https://github.com/user-attachments/assets/0bfc59cf-30fe-4211-aca5-f1a07c8c0f28" />
+
 
 <aside>
 
@@ -531,7 +535,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 연령대별 남성/여성 구매 의류 색상
 
-![image.png](attachment:f83be0c0-eced-4191-bc36-c4739353802f:image.png)
+<img width="709" height="213" alt="image" src="https://github.com/user-attachments/assets/d31c8054-d1d4-4c61-bc40-948733692aa4" />
+
 
 <aside>
 
@@ -563,7 +568,7 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 계절별 상품 구매 색상 TOP 10
 
-![image.png](attachment:40b5ebf6-421f-476a-93f3-31363e8a8e86:image.png)
+<img width="712" height="433" alt="image" src="https://github.com/user-attachments/assets/9566051a-3194-4aa6-beb9-4dd02ac980f3" />
 
 <aside>
 
@@ -585,7 +590,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 북부/중부/남부별 구매 의류 색상 TOP 3
 
-![image.png](attachment:cb9b5f29-91bc-4a37-aaaf-57269da4665d:4e9bf37f-dc49-4b2a-a2b8-f72e83d5b4fa.png)
+<img width="712" height="244" alt="image" src="https://github.com/user-attachments/assets/f7ca2a09-3f9a-470b-8779-549de126815b" />
+
 
 <aside>
 
@@ -604,7 +610,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 카테고리별 구매 의류 색상 TOP 10
 
-![image.png](attachment:ccffd733-6701-4e70-9b31-0b44bb7ccc53:image.png)
+<img width="716" height="432" alt="image" src="https://github.com/user-attachments/assets/5ff4a815-fbdf-4843-8876-03a37fe31fd4" />
+
 
 <aside>
 
@@ -690,7 +697,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 구독유무와 성별의 상관관계
 
-![image.png](attachment:ee56992b-439d-4d49-91bb-8b356db9050f:image.png)
+<img width="336" height="218" alt="image" src="https://github.com/user-attachments/assets/37113b64-26c2-4fae-b84c-177648dc8984" />
+
 
 <aside>
 
@@ -701,9 +709,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 성별에 따른 구독유무별 고객 충성도 / 고객 충성도별 구독유무
 
-![image.png](attachment:c39f3be4-62db-4bdd-b5a2-29b8d7783fcc:image.png)
+<img width="717" height="204" alt="image" src="https://github.com/user-attachments/assets/2f5eae12-ab2f-4100-ba14-2dc249da1373" />
 
-![image.png](attachment:a6b2e7b6-4f98-48d0-ab51-2b0f3fc97355:image.png)
 
 <aside>
 
@@ -714,7 +721,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 구독유무별 상품 종류에 따른 판매 비율 차이
 
-![image.png](attachment:90665d21-4655-4978-8681-94c3d67c4c83:image.png)
+<img width="290" height="251" alt="image" src="https://github.com/user-attachments/assets/a8e734db-5723-4664-ace9-3bdcdca9fe31" />
+
 
 <aside>
 
@@ -725,7 +733,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 구독유무별 나이에 따른 판매 비율 차이
 
-![image.png](attachment:c6d7d48e-2ae1-44ee-809e-359a83a4ced8:image.png)
+<img width="337" height="212" alt="image" src="https://github.com/user-attachments/assets/957fce81-f24b-4161-a3d3-adc2f02630ea" />
+
 
 <aside>
 
@@ -740,7 +749,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 | 0 | 59.8651 |
 | 1 | 59.4919 |
 
-![image.png](attachment:a770423b-1acd-465e-9114-44ec2432bfd6:image.png)
+<img width="626" height="180" alt="image" src="https://github.com/user-attachments/assets/0f518a36-c57c-4200-b23a-cb89db9b8aee" />
+
 
 <aside>
 
@@ -751,21 +761,18 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 1. 구독자 대상 이탈 가능성 최소화
 
-![image.png](attachment:9737acd1-efb4-424d-9826-71b92c00933d:image.png)
+<img width="295" height="215" alt="image" src="https://github.com/user-attachments/assets/409f74c0-92d2-4d4b-8e7c-49f8f51e5bb3" />
+
 
      - SILVER 등급 중 이탈 가능성이 있는 고객의 특징
 
-![image.png](attachment:518cc7fc-c1a2-4a40-92ae-5ea7f119791c:image.png)
+<img width="709" height="456" alt="image" src="https://github.com/user-attachments/assets/834e2d60-718a-4b06-aa6e-ce2f55260034" />
 
-![image.png](attachment:10c5d916-8a53-4b0f-9e71-a6f33eae23cf:image.png)
-
-![image.png](attachment:2e694c28-cf53-4bc4-b6ef-1ec2782874d9:image.png)
-
-![image.png](attachment:b1786b8e-275f-49df-af1f-29ddabea801c:image.png)
 
      - 따뜻한 중부 지역에서 인기가 많은 상품
 
-![image.png](attachment:ace2d0d4-a0fb-43c1-ae80-8f1ea9fc55a3:image.png)
+<img width="337" height="201" alt="image" src="https://github.com/user-attachments/assets/f527c8db-197f-404d-8620-cb0444fab5db" />
+
 
 <aside>
 
@@ -839,7 +846,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 시각화와 분석결과
 
-![회원수_성별.png](attachment:63115e69-1c89-4532-b1d7-f7e7a82efa3b:회원수_성별.png)
+<img width="357" height="220" alt="image" src="https://github.com/user-attachments/assets/fa930e2d-b00c-4498-9c15-40f60495b5c8" />
+
 
 |  |  | 구독 상태 |  |
 | --- | --- | --- | --- |
@@ -866,11 +874,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 </aside>
 
-![온라인_오프라인 별 판매량.png](attachment:a548ff7c-7bff-4aea-a97a-8ee99f9fa9c4:온라인_오프라인_별_판매량.png)
+<img width="571" height="258" alt="image" src="https://github.com/user-attachments/assets/7d40e49d-9b34-4a83-8884-9f96e2b292b3" />
 
-![성별에 따른 매출횟수 (2).png](attachment:510260a1-904d-4089-99eb-5f7d41e1679e:성별에_따른_매출횟수_(2).png)
-
-![chart.png](attachment:292b0cf2-da49-48f0-8861-860823279dbd:chart.png)
 
 <aside>
 
@@ -888,7 +893,7 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 </aside>
 
-인사이트 제안
+
 
 <aside>
 
