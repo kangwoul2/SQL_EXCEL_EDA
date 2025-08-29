@@ -1,11 +1,5 @@
 # SQL_EXCEL_EDA
-(임시) 기획서
 
-[프로젝트 기획서.pdf](attachment:f866e849-9a1a-4de4-bb78-3376e489958b:프로젝트_기획서.pdf)
-
-[4팀 최종 발표.pptx](attachment:2bad9a7f-8e46-485e-af7a-03f34cd19861:4팀_최종_발표.pptx)
-
-[발표PPT.pptx](attachment:29982bf7-601e-4115-823c-470e3088208a:발표PPT.pptx)
 
 ### 0️⃣ 팀 소개 및 구성원, 목차 소개
 
@@ -897,7 +891,6 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 
 <aside>
 
-회사의 안정적인 성장에 
 
 </aside>
 
