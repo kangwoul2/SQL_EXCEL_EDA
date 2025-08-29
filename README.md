@@ -207,7 +207,8 @@ Color 변수를 해석하여 적절한 코드표를 찾고 이를 값으로 치�
 | Every 3 Months | 4 |
 | Annually | 1 |
 
-![image.png](attachment:9e3947a6-6df3-40df-a9c8-80d8265bb6ed:image.png)
+<img width="331" height="197" alt="image" src="https://github.com/user-attachments/assets/a99c4992-fbf7-41af-87bc-6a9658c8f2c3" />
+
 
 - 구독을 한 사람이 구독을 안 한 사람보다 충성도가 약간 높다는 것을 알 수 있다
 
